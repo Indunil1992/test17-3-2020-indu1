@@ -1,0 +1,88 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "f6fcd90d-e3ca-4530-8ea2-7fd5d0149a0a": {
+        "id": "f6fcd90d-e3ca-4530-8ea2-7fd5d0149a0a",
+        "parent": null,
+        "name": "test17-3-2020-indu1.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test17-3-2020-indu1.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "cdcb819c-37c6-4c09-a050-f4e7d7a5daa4": {
+        "id": "cdcb819c-37c6-4c09-a050-f4e7d7a5daa4",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "89a88b4a-3d18-43b8-afa3-e7a7a48fa332": {
+        "id": "89a88b4a-3d18-43b8-afa3-e7a7a48fa332",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "f6fcd90d-e3ca-4530-8ea2-7fd5d0149a0a"
+    ],
+    "currentFileId": "f6fcd90d-e3ca-4530-8ea2-7fd5d0149a0a",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test17-3-2020-indu1",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1584423837151
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test17-3-2020-indu1",
+      "url": "https://github.com/Indunil1992/test17-3-2020-indu1"
+    }
+  }
+}
